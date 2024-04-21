@@ -1,7 +1,7 @@
 # PRODIGY_DS_04
 **Title: Social Media Sentiment Analysis and Visualization**
-OVERVIEW:
 
+OVERVIEW:
 This task focuses on analyzing and visualizing sentiment patterns in social media data to gain insights into public opinion and attitudes towards specific topics or brands. Sentiment analysis, a subfield of natural language processing (NLP), involves the process of identifying, extracting, and quantifying sentiment from text data.
 
 Task Implemented:
